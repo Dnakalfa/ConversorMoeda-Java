@@ -22,10 +22,13 @@ O projeto está dividido em 5 pacotes principais:
 - `contrato`: define a interface para o conversor.
 - `api`: responsável por se conectar à API de conversão de moedas.
 
-## Futuras melhorias:
+## Futuras Melhorias:
+
 - Adicionar uma interface gráfica.
 - Armazenar um histórico de conversões.
 - Suporte para mais moedas.
+
+Melhorias adicionadas em novo repositorio - https://github.com/Dnakalfa/ConversorDeMoedas-Java.
 
 ### Desenvolvido apartir de conhecimentos adquiridos em cursos, palestras e mentorias na Alura/Programa ONE - Oracle Next Education.
 
